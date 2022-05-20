@@ -3,22 +3,22 @@
 # NOTE: Please fill out the license field for your package! If it is unknown,
 # then please put 'unknown'.
 
-# Maintainer: Your Name <youremail@domain.com>
+# Maintainer: Brandy L. Adkins <lagoddess22@yahoo.com>
 pkgname=conio
 pkgver=0.1.0
 pkgrel=1
-epoch=
+epoch=01/00/1970
 pkgdesc="borland conio for linux"
 arch=('i686' 'x86_64')
 url="http://sourceforge.net/projects/conioforlinux/files/conio-0.1.0/"
-license=('GPL')
+license=('apache')
 groups=()
-depends=('ncurses')
+depends=('clean')
 makedepends=()
 checkdepends=()
 optdepends=()
 provides=()
-conflicts=()
+conflicts=(none)
 replaces=()
 backup=()
 options=()
