@@ -6,7 +6,7 @@
 pkgname=conio
 pkgver=0.1.0
 pkgrel=1
-epoch=00/00/0000
+epoch=01/01/1970
 pkgdesc="borland conio for linux"
 arch=('i686' 'x86_64')
 url="http://sourceforge.net/projects/conioforlinux/files/conio-0.1.0/"
